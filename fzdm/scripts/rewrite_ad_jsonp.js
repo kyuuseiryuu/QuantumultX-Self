@@ -1,10 +1,10 @@
 const contentJS = `
 try {
   document.querySelector('#xuanfu_news_id').remove();
-} catch() {}
+} catch(e) {}
 try {
   document.querySelector('[data-type="close111"]').click();
-} catch() {}
+} catch(e) {}
 document.querySelectorAll('newsfeed').forEach(e => e.remove());
 document.querySelectorAll('center').forEach(e => e.remove());
 document.querySelectorAll('cmx').forEach(e => e.remove());
