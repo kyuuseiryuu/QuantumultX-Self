@@ -6,5 +6,6 @@ for (let i = 0; i <= id; i++ ) {
 document.body.style.paddingTop = "0px";
 const children = document.body.children;
 children[children.length - 1].remove();
+document.querySelectorAll('center').forEach(e => e.remove());
 `
 $done({ body });
