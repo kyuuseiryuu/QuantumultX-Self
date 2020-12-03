@@ -5,7 +5,7 @@ const content = `
   });
 </script>
 `
-const body = $response.body + content;
+const body = $response.body.replace('</html>', '') + content + '</html>';
 
 $done({ body });
 
