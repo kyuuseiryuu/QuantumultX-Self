@@ -1,0 +1,8 @@
+# > bilibili
+HOST-SUFFIX,biliapi.net, proxy
+HOST-SUFFIX,bilibili.com, proxy
+HOST-SUFFIX,bilivideo.com, proxy
+HOST-SUFFIX,hdslb.com, proxy
+HOST-KEYWORD, cn-gddg-dx-bcache, direct
+HOST-KEYWORD, mcdn.bilivideo.cn, direct
+HOST-KEYWORD, v1d.szbdyd.com, direct
