@@ -1,7 +1,7 @@
 # > bilibili
-HOST-SUFFIX, biliapi.net, BACK_TO_CN
-HOST-SUFFIX, bilibili.com, BACK_TO_CN
-HOST-SUFFIX, bilivideo.com, BACK_TO_CN
+HOST-SUFFIX, biliapi.net, 国内节点
+HOST-SUFFIX, bilibili.com, 国内节点
+HOST-SUFFIX, bilivideo.com, 国内节点
 HOST-SUFFIX, hdslb.com, direct
 HOST-KEYWORD, cn-gddg-dx-bcache, direct
 HOST-KEYWORD, mcdn.bilivideo.cn, direct
